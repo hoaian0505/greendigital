@@ -1,0 +1,7 @@
+{
+  "name": "GreenDigital",
+  "displayName": "GreenDigital",
+  "androidApiKey": "AIzaSyAkW4wvsItiMmTZDUHPlW3mfvItbd35Ju4",
+  "domainURL": "http://localhost:3080/",
+  "apiDomain": "http://localhost:3080/api/"
+}
